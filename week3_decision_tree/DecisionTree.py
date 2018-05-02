@@ -188,4 +188,4 @@ for i in range(len(attr)):
 dtree = dtree_learning(examples, attr_avail, majority(examples,cls_index), cls_index)
 
 dtree_test(dtree, examples, cls_index)
-#dtree_test(dtree, test, cls_index)
+dtree_test(dtree, test, cls_index)
