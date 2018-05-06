@@ -36,9 +36,15 @@ exercise of ML course in TUD
  
 ### The result as following : 
 
-* ![P1 : gaussian distribution](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P1_result.png)
+* P1 gaussian distribution:
+
+
+  ![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P1_result.png)
 
 
 * [covariance matrix, which calculated from generated data : ](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P1_result.txt)
 
-* ![P2 : visualize](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P2_result_1.png)
+* P2 visualize : 
+
+
+  ![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P2_result_1.png)
