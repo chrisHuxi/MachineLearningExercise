@@ -25,3 +25,20 @@ exercise of ML course in TUD
 ### The result as following : 
 
 ![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week3_decision_tree/result_dt.PNG)
+
+
+
+## week2 : visualize
+### including :
+ * [2D_gaussian_distribution.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/2D_gaussian_distribution.py)
+ * [visualize.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/visualize.py)
+ * [data : DatAccel.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatAccel.txt) , [data : DatAccel.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatGyr.txt)
+ 
+### The result as following : 
+
+* ![P1 : gaussian distribution](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P1_result.png)
+
+
+* [covariance matrix, which calculated from generated data : ](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P1_result.txt)
+
+* ![P2 : visualize](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/P2_result_1.png)
