@@ -24,4 +24,4 @@ exercise of ML course in TUD
 
 ### The result as following : 
 
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/result_dt.PNG)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week3_decision_tree/result_dt.PNG)
