@@ -32,7 +32,7 @@ exercise of ML course in TUD
 ### including :
  * [2D_gaussian_distribution.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/2D_gaussian_distribution.py)
  * [visualize.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/visualize.py)
- * [data : DatAccel.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatAccel.txt) , [data : DatAccel.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatGyr.txt)
+ * [data : DatAccel.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatAccel.txt) , [data : DatGyr.txt](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week2_visualize/DatGyr.txt)
  
 ### The result as following : 
 
