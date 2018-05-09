@@ -2,6 +2,33 @@
 
 exercise of ML course in TUD, [exercise description and sildes click here](http://cvl.inf.tu-dresden.de/courses/machine-learning-1/).
 
+## week4 : Decision Tree with continuous value
+#### including :
+ * [DecisionTree_cont_var.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DecisionTree_cont_var.py)
+ * [DT_skt.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt.py)
+ * [DT_gain_ratio.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_gain_ratio.py)
+ * [data](https://github.com/chrisHuxi/MachineLearningExercise/tree/master/week4_decision_tree_cont_variables/data)
+### The result as following : 
+
+* P1 DecisionTree_cont_var : my implementation:
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P1.PNG)
+
+
+* P2 DecisionTree : scikit-learn implementation:
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P2.PNG)
+
+
+* P3 DecisionTree : with gain ratio, on the "Data3.csv":
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P3.PNG)
+
+
+
 
 ## week3 : Decision Tree
 ### edit:
