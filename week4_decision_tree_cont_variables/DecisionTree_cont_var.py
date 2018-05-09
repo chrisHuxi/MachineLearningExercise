@@ -1,4 +1,3 @@
-__author__ = 'Benjamin Guthier'
 from math import log
 def openfile(path, fname):
     datafile = open(path + fname, "r")
