@@ -1,6 +1,6 @@
 # Machine Learning Exercise
 
-exercise of ML course in TUD
+exercise of ML course in TUD, [exercise description and sildes click here](http://cvl.inf.tu-dresden.de/courses/machine-learning-1/).
 
 
 ## week3 : Decision Tree
