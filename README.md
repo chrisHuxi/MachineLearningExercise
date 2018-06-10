@@ -6,26 +6,21 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 #### including :
  * [random_forest.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest.py)
  * [random_forest_SKT.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest_SKT.py)
- * `TODO : DecisionTree_pruning.py`
+ * `TODO : DecisionTree_pruning.py` : I think it is impossible to implement a pruning method in decision tree consisted of list. If we want to prune a decision tree, this tree must be able to be modified during the iteration, which can't be realized with a list. A better data struct is "class". Or anyone has a idea with list? if you do, pls tell me :-)
 ### The result as following : 
 
-* P1 DecisionTree_cont_var : my implementation:
+* random forest : my implementation (without continuous feature):
 
 
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P1.PNG)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/result/my_implement.PNG)
 
 
-* P2 DecisionTree : scikit-learn implementation:
+* random forest : scikit learn package's implementation(with continuous feature):
 
 
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P2.PNG)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/result/skt_implement.PNG)
 
 
-* P3 DecisionTree : with gain ratio, on the "Data3.csv":
-
-
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P3.PNG)
- 
 ## week4 : Decision Tree with continuous value
 #### edit :
   * after reading the document of scikit_learn package, I implement the DT_skt.py again with a more simple style, [code click here](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt_plus.py)
