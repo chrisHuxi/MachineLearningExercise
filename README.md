@@ -2,7 +2,40 @@
 
 exercise of ML course in TUD, [exercise description and sildes click here](http://cvl.inf.tu-dresden.de/courses/machine-learning-1/).
 
+## week5 : Random Forest
+#### including :
+ * [random_forest.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest.py)
+ * [random_forest_SKT.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest_SKT.py)
+ * `TODO : DecisionTree_pruning.py`
+### The result as following : 
+
+* P1 DecisionTree_cont_var : my implementation:
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P1.PNG)
+
+
+* P2 DecisionTree : scikit-learn implementation:
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P2.PNG)
+
+
+* P3 DecisionTree : with gain ratio, on the "Data3.csv":
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P3.PNG)
+ 
 ## week4 : Decision Tree with continuous value
+#### edit :
+  * after reading the document of scikit_learn package, I implement the DT_skt.py again with a more simple style, [code click here](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt_plus.py)
+  * but the result seems the same as before, unfortunately :-(
+  
+  
+  ![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/result/P2_plus.PNG)
+  
+
+
 #### including :
  * [DecisionTree_cont_var.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DecisionTree_cont_var.py)
  * [DT_skt.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt.py)
