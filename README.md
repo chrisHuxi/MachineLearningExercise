@@ -12,7 +12,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 
 * P1 : simulation of tossing dice :
 
-  * theory calculate : { 1 : 1/46656 , 2 : 63/46656 , 3 : 665/46656 , 4 : 3367/46656 , 5 : 11529/46656 , 6 : 31031/46656 }
+  * theory calculate : { 1 : 1/7776 , 2 : 31/7776 , 3 : 211/7776 , 4 : 781/77776 , 5 : 2101/77776 , 6 : 4651/77776 }
 
 
 ![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1_result.PNG)
