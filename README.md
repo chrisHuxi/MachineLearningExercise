@@ -2,6 +2,28 @@
 
 exercise of ML course in TUD, [exercise description and sildes click here](http://cvl.inf.tu-dresden.de/courses/machine-learning-1/).
 
+
+## week6 : Naive Bayes
+#### including :
+ * [P1.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1.py)
+ * [P3.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3.py)
+ 
+### The result as following : 
+
+* P1 : simulation of tossing dice :
+
+  * theory calculate : { 1 : 1/46656 , 2 : 63/46656 , 3 : 665/46656 , 4 : 3367/46656 , 5 : 11529/46656 , 6 : 31031/46656 }
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1_result.PNG)
+
+
+* P3 : Naive Bayes classifier in Data3 ( my implementation & scikit-learn implementation ) :
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3_result.PNG)
+
+
 ## week5 : Random Forest
 #### including :
  * [random_forest.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest.py)
