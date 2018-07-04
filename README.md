@@ -4,7 +4,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 
 
 ## week6 : Naive Bayes
-#### edit :
+### edit :
   * thanks a lot to Professor Heidrich, he pointed out that I used the variance instead of standard deviation when calculating the gaussian function. So the result seems a little different.
   * besides, we took a look at the solution, find there is also a mistake about gaussian function:
     ```python
@@ -18,7 +18,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
   
   
   
-#### including :
+### including :
  * [P1.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1.py)
  * [P3.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3.py)
  
@@ -39,7 +39,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 
 
 ## week5 : Random Forest
-#### including :
+### including :
  * [random_forest.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest.py)
  * [random_forest_SKT.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/random_forest_SKT.py)
  * `TODO : DecisionTree_pruning.py` : I think it is impossible to implement a pruning method in decision tree consisted of list. If we want to prune a decision tree, this tree must be able to be modified during the iteration, which can't be realized with a list. A better data struct is "class". Or anyone has a idea with list? if you do, pls tell me :-)
@@ -58,7 +58,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 
 
 ## week4 : Decision Tree with continuous value
-#### edit :
+### edit :
   * after reading the document of scikit_learn package, I implement the DT_skt.py again with a more simple style, [code click here](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt_plus.py)
   * but the result seems the same as before, unfortunately :-(
   
@@ -67,7 +67,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
   
 
 
-#### including :
+### including :
  * [DecisionTree_cont_var.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DecisionTree_cont_var.py)
  * [DT_skt.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_skt.py)
  * [DT_gain_ratio.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week4_decision_tree_cont_variables/DT_gain_ratio.py)
