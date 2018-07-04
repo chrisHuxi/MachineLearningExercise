@@ -3,6 +3,27 @@
 exercise of ML course in TUD, [exercise description and sildes click here](http://cvl.inf.tu-dresden.de/courses/machine-learning-1/).
 
 
+## week7/8 : evalution
+### including :
+ * [P1.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week7_evalution/P1.py)
+ * [data](https://github.com/chrisHuxi/MachineLearningExercise/tree/master/week7_evalution/data)
+ 
+### The result as following : 
+
+* P1 : learning curve :
+
+  
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week7_evalution/learning_curve.png)
+
+
+* P1 : ROC-curve ( my implementation & scikit-learn implementation ) :
+
+
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week7_evalution/ROC_result_my.png)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week7_evalution/ROC_result.png)
+
+
+
 ## week6 : Naive Bayes
 ### edit :
   * thanks a lot to Professor Heidrich, he pointed out that I used the variance instead of standard deviation when calculating the gaussian function. So the result seems a little different.
