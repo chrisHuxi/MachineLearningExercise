@@ -14,7 +14,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
   * result of the edited code:
   
   
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/result/skt_implement.PNG)  
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3_result_edited.PNG)  
   
   
   
@@ -29,7 +29,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
   * theory calculate : { 1 : 1/7776 , 2 : 31/7776 , 3 : 211/7776 , 4 : 781/77776 , 5 : 2101/7776 , 6 : 4651/7776 }
 
 
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3_result_edited.PNG)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3_result.PNG)
 
 
 * P3 : Naive Bayes classifier in Data3 ( my implementation & scikit-learn implementation ) :
