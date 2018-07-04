@@ -4,6 +4,20 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
 
 
 ## week6 : Naive Bayes
+#### edit :
+  * thanks a lot to Professor Heidrich, he pointed out that I used the variance instead of standard deviation when calculating the gaussian function. So the result seems a little different.
+  * besides, we took a look at the solution, find there is also a mistake about gaussian function:
+    ```python
+     return 1/np.sqrt(2 * pi * var) * np.exp(-(x-mean)**2/(2*var))    #edited code
+     #return 1/sqrt(variance * 2 * pi) * exp(-(x - mean)**2/(2*var))  # original code
+    ```
+  * result of the edited code:
+  
+  
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week5_pruning_random_forest/result/skt_implement.PNG)  
+  
+  
+  
 #### including :
  * [P1.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1.py)
  * [P3.py](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3.py)
@@ -15,7 +29,7 @@ exercise of ML course in TUD, [exercise description and sildes click here](http:
   * theory calculate : { 1 : 1/7776 , 2 : 31/7776 , 3 : 211/7776 , 4 : 781/77776 , 5 : 2101/7776 , 6 : 4651/7776 }
 
 
-![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P1_result.PNG)
+![](https://github.com/chrisHuxi/MachineLearningExercise/blob/master/week6_naive_bayes/P3_result_edited.PNG)
 
 
 * P3 : Naive Bayes classifier in Data3 ( my implementation & scikit-learn implementation ) :
